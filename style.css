@@ -1,0 +1,23 @@
+body {
+  font-family:verdana; 
+  padding: 5px; 
+  text-align:center;
+}
+h1 {
+  margin:0;
+  padding:0;
+}
+body {
+  padding:5px;
+}
+#banner {
+  max-width:90%;
+  color:green;
+  filter:hue-rotate(-10deg);
+}
+#spinner {
+  color:red;
+}
+#controls {
+  padding:5px;
+}
